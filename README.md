@@ -12,6 +12,7 @@ python simpleshot.py domains-urls.txt 'path/bin/phantom'
 3) Enjoy
 
 (Note: screenshots are saved as .png over http & https)
+*Requirements: selenium installed
 
 Demo:
 
